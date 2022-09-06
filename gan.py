@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun  6 23:55:11 2018
-
-@author: jaydeep thik
-"""
-
 import keras
 from keras import layers, models
 import numpy as np
